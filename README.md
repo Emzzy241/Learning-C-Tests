@@ -1,4 +1,4 @@
-# Queen Attack 1.0.0
+# LEARNING C# Tests 1.0.0
 #### made by Mojiboye Emmanuel
 
 #### Learning How to write basic tests in C#
